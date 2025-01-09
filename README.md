@@ -1,1 +1,1 @@
-# terraform-scaleway-iam-multi-tenant
+# terraform-scw-iam
